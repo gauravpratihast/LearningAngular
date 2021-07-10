@@ -48,6 +48,7 @@
                 border-radius: 0.5rem;
                 margin: 1rem;
                 cursor: pointer;
+                transition: background .1s ease-in;
                 &:hover{
                     background: linear-gradient(to bottom right, #9f01ea, #56d8e4);
                 }
